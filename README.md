@@ -16,4 +16,10 @@ interface for creating the maximum customer satisfaction, since this website
 is available 24 /7 travelers will be able to easily clarify their doubts and attend 
 into safe traveling 
 
+Used Languages:
+HTML
+CSS
+JS
+PHP
+
 ![Frame 1](https://user-images.githubusercontent.com/87405540/209427849-48b22c84-1c83-4cfc-a7a4-c2f17772938d.png)

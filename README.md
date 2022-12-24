@@ -1,5 +1,8 @@
 # IWT_Project---Air_Line_Resevation_System
 
+This project was done for the academic purposes of the IWT module (Year 1 Semester 2 )at the Sri Lanka Institute of Information
+Technology.
+
 The Project centers around a website in which a passenger can demand 
 dynamic requests when scheduling a flight easily, the main focus of this 
 website is to give convenient access towards numerous services and flight 
@@ -21,5 +24,6 @@ HTML
 CSS
 JS
 PHP
+Database: SQL
 
 ![Frame 1](https://user-images.githubusercontent.com/87405540/209427849-48b22c84-1c83-4cfc-a7a4-c2f17772938d.png)
